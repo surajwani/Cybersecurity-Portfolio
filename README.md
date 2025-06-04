@@ -1,3 +1,2 @@
 # Cyberspace-Portfolio
-
-https://surajwani.github.io/Cybersecurity-Portfolio/
+https://surajwani.github.io/Surajwani-Portfolio/
